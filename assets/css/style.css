@@ -624,6 +624,13 @@ section .container {
     background: rgba(0, 0, 0, 0.8);
   }
 }
+
+.btn-submit{
+  display: flex;
+  margin-left: 45%;
+  margin-top: 20px;
+}
+
 .credits a {
   color: #18d26e;
   transition: 0.3s;
